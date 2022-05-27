@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\PROJE"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\Downloads\\fontawesome-free-6.0.0-desktop\\fontawesome-free-6.0.0-desktop\\svgs"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\Downloads\\fontawesome-free-6.0.0-desktop\\fontawesome-free-6.0.0-desktop\\otfs"
+		},
+		{
+			"path": "..\\..\\..\\fontawesome-free-6.0.0-web"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "PROJE"
+	}
+}
